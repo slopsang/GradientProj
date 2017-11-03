@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gradient/OnboardingFourViewController.swift"
+            timestampString = "516091791.165378"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "OnboardingFourViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Gradient/RootPageViewController.swift"
+            timestampString = "516227951.688285"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "RootPageViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gradient.RootPageViewController.controlDelegate.getter : weak Swift.Optional&lt;Gradient.RootPageViewControllerDelegate&gt;"
+                  moduleName = "Gradient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julianbossiere/Documents/Xcode/Gradient/Gradient/RootPageViewController.swift"
+                  timestampString = "518076887.265207"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gradient.RootPageViewController.controlDelegate.setter : weak Swift.Optional&lt;Gradient.RootPageViewControllerDelegate&gt;"
+                  moduleName = "Gradient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julianbossiere/Documents/Xcode/Gradient/Gradient/RootPageViewController.swift"
+                  timestampString = "518076887.271462"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "61">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gradient.RootPageViewController.init (transitionStyle : __C.UIPageViewControllerTransitionStyle, navigationOrientation : __C.UIPageViewControllerNavigationOrientation, options : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; Gradient.RootPageViewController"
+                  moduleName = "Gradient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julianbossiere/Documents/Xcode/Gradient/Gradient/RootPageViewController.swift"
+                  timestampString = "518076887.274192"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gradient.RootPageViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Gradient.RootPageViewController&gt;"
+                  moduleName = "Gradient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julianbossiere/Documents/Xcode/Gradient/Gradient/RootPageViewController.swift"
+                  timestampString = "518076887.276738"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
